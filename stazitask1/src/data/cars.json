@@ -1,0 +1,62 @@
+[
+  {
+    "carName": "Toyota RAV4",
+    "year": 2021,
+    "seater": 4,
+    "fuelType": "Hybrid",
+    "mileage": "6.1km/ 1-Litre",
+    "carType": "Automatic",
+    "rentPrice": 440,
+    "carImage": "https://blogmedia.dealerfire.com/wp-content/uploads/sites/982/2018/08/2018-Toyota-RAV4-Hybrid-B_o.jpg"
+  },
+  {
+    "carName": "BMW 3 Series",
+    "year": 2019,
+    "seater": 4,
+    "fuelType": "Gasoline",
+    "mileage": "8.2km/ 1-Litre",
+    "carType": "Automatic",
+    "rentPrice": 350,
+    "carImage": "https://wallpapercave.com/wp/wp4258197.jpg"
+  },
+  {
+    "carName": "Volkswagen T-Cross",
+    "year": 2020,
+    "seater": 4,
+    "fuelType": "Gasoline",
+    "mileage": "5.3km/ 1-Litre",
+    "carType": "Automatic",
+    "rentPrice": 400,
+    "carImage": "https://europske.noviny.sk/wp-content/uploads/2019/07/Volkswagen-T-Cross-2019-1600-04.jpg"
+  },
+  {
+    "carName": "Cadillac Escalade",
+    "year": 2020,
+    "seater": 4,
+    "fuelType": "Gasoline",
+    "mileage": "7.7km/ 1-Litre",
+    "carType": "Automatic",
+    "rentPrice": 440,
+    "carImage": "https://i.pinimg.com/originals/7a/77/77/7a777794814a6f6659b20ee04b51dd3f.jpg"
+  },
+  {
+    "carName": "BMW 4 Series GTI",
+    "year": 2021,
+    "seater": 4,
+    "fuelType": "Gasoline",
+    "mileage": "7.6km/ 1-Litre",
+    "carType": "Automatic",
+    "rentPrice": 440,
+    "carImage": "https://i.pinimg.com/originals/51/31/69/513169ac4917cede5e8a3c6afefe4c65.jpg"
+  },
+  {
+    "carName": "BMW 4 Series",
+    "year": 2019,
+    "seater": 4,
+    "fuelType": "Gasoline",
+    "mileage": "8.2km/ 1-Litre",
+    "carType": "Automatic",
+    "rentPrice": 440,
+    "carImage": "https://carwow-uk-wp-3.imgix.net/bmw-4-series-gran-coupe-silver-driving-front-1.jpg"
+  }
+]
