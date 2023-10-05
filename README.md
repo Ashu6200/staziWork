@@ -1,4 +1,5 @@
 # Stazi Work
+
 ## Assignment First
 
 ![task1pic](https://github.com/Ashu6200/staziWork/assets/109691178/33a4eae8-a2f5-4aa3-bb5c-85c39f488afc)
